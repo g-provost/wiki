@@ -7,3 +7,5 @@ The Kobol Team is a group of passionate people based in Singapore who love to bu
 Test Edit GP
 
 Edit 2
+
+Edit 2 in draft mode
