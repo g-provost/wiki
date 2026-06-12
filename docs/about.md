@@ -13,3 +13,10 @@ Edit 2 in draft mode
 edit 3
 
 edit 4
+
+```mermaid
+graph TD
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Do it]
+  B -->|No| D[Stop]
+```
